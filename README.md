@@ -1,9 +1,3 @@
-<style>
-td,th {
-  font-size: 12px
-}
-</style>
-
 数据文件 `300378_daily.csv` 为300378日线数据（不复权）
 
 读取复权数据代码：
