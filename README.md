@@ -29,6 +29,8 @@ data = abupy.MarketBu.ABuSymbolPd.make_kl_df(target_symbol,start=self.benchmark.
 ```
 以上修正需要在其他策略测试时注意。否则可能会造成使用非起始日开始的数据回测时无法回测到数据。
 
+**数据来源**：[gquant-data](https://github.com/GuQiangJS/gquant-data)
+
 # 策略说明
 
 - 👍[ATR波幅通道策略](https://github.com/GuQiangJS/gquant-example/wiki/ATR波幅通道策略) [代码](策略测试-通道策略-ATR波幅通道.ipynb)
