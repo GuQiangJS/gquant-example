@@ -31,5 +31,5 @@ data = abupy.MarketBu.ABuSymbolPd.make_kl_df(target_symbol,start=self.benchmark.
 
 # 策略说明
 
-- 👍[ATR波幅通道策略](wiki/ATR波幅通道策略) [代码](策略测试-通道策略-ATR波幅通道.ipynb)
+- 👍[ATR波幅通道策略](/github.com/GuQiangJS/gquant-example/wiki/ATR波幅通道策略) [代码](策略测试-通道策略-ATR波幅通道.ipynb)
 
