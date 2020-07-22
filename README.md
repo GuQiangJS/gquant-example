@@ -1,5 +1,3 @@
-数据文件 `300378_daily.csv` 为300378日线数据（不复权）
-
 读取复权数据代码：
 
 ```python
@@ -31,7 +29,7 @@ data = abupy.MarketBu.ABuSymbolPd.make_kl_df(target_symbol,start=self.benchmark.
 
 **数据来源**：[gquant-data](https://github.com/GuQiangJS/gquant-data)
 
-# 策略说明
+**策略说明**:
 
 - 👍[ATR波幅通道策略](https://github.com/GuQiangJS/gquant-example/wiki/ATR波幅通道策略) [代码](策略测试-通道策略-ATR波幅通道.ipynb)
 
